@@ -3,16 +3,16 @@ package main
 import "fmt"
 
 func main() {
-	var myName string
-	var LuckyNumber int
+	var name string
+	var luckyNumber int
 	var fact string
 
 
-	myName = "Cigdem"
-	LuckyNumber = 13
+	name = "Cigdem"
+	luckyNumber = 13
 	fact = "I like animals"
 
-fmt.Println(myName)
-fmt.Println(LuckyNumber)
+fmt.Println(name)
+fmt.Println(luckyNumber)
 fmt.Println(fact)
 }
